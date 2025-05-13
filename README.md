@@ -1,0 +1,1 @@
+This is the final project for course "Foundations of Artificial Intelligence". In this project we are asked to build an agent to play poker games. I leart some DL techniques such as DQN by myself and applied them in this project.
